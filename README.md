@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs, React Three fiber and threejs.**
 
-- 👯 I’m looking to collaborate on **interactive threejs websites**
+- 👯 I’m looking to collaborate on **interactive 3d websites**
 
 - 🤝 I’m looking for help with **3d modelling in blender**
 
